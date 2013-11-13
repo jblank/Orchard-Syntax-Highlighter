@@ -7,5 +7,7 @@ OrchardVersion: 1.4
 Description: Description for the module
 Features:
     TheMonarch.SyntaxHighlighter:
-        Description: Description for feature TheMonarch.SyntaxHighlighter.
+		Name: Syntax Highlighter
+        Description: Code Syntax Highlighting
 		Dependencies: Orchard.Blogs, Orchard.jQuery
+		Category: Syntax Highlighting
