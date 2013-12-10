@@ -76,17 +76,27 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\pretty\lang-apollo.js" />
+    <Content Include="Scripts\pretty\lang-basic.js" />
     <Content Include="Scripts\pretty\lang-clj.js" />
     <Content Include="Scripts\pretty\lang-css.js" />
+    <Content Include="Scripts\pretty\lang-dart.js" />
+    <Content Include="Scripts\pretty\lang-erlang.js" />
     <Content Include="Scripts\pretty\lang-go.js" />
     <Content Include="Scripts\pretty\lang-hs.js" />
     <Content Include="Scripts\pretty\lang-lisp.js" />
+    <Content Include="Scripts\pretty\lang-llvm.js" />
     <Content Include="Scripts\pretty\lang-lua.js" />
+    <Content Include="Scripts\pretty\lang-matlab.js" />
     <Content Include="Scripts\pretty\lang-ml.js" />
+    <Content Include="Scripts\pretty\lang-mumps.js" />
     <Content Include="Scripts\pretty\lang-n.js" />
+    <Content Include="Scripts\pretty\lang-pascal.js" />
     <Content Include="Scripts\pretty\lang-proto.js" />
+    <Content Include="Scripts\pretty\lang-r.js" />
+    <Content Include="Scripts\pretty\lang-rd.js" />
     <Content Include="Scripts\pretty\lang-scala.js" />
     <Content Include="Scripts\pretty\lang-sql.js" />
+    <Content Include="Scripts\pretty\lang-tcl.js" />
     <Content Include="Scripts\pretty\lang-tex.js" />
     <Content Include="Scripts\pretty\lang-vb.js" />
     <Content Include="Scripts\pretty\lang-vhdl.js" />
@@ -94,6 +104,7 @@
     <Content Include="Scripts\pretty\lang-xq.js" />
     <Content Include="Scripts\pretty\lang-yaml.js" />
     <Content Include="Scripts\pretty\prettify.js" />
+    <Content Include="Scripts\pretty\run_prettify.js" />
     <Content Include="Styles\pretty\github.css" />
     <Content Include="Styles\pretty\hemisu-dark.css" />
     <Content Include="Styles\pretty\hemisu-light.css" />
