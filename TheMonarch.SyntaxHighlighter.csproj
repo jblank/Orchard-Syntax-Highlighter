@@ -105,6 +105,7 @@
     <Content Include="Scripts\pretty\lang-yaml.js" />
     <Content Include="Scripts\pretty\prettify.js" />
     <Content Include="Scripts\pretty\run_prettify.js" />
+    <Content Include="Styles\pretty\doxy.css" />
     <Content Include="Styles\pretty\github.css" />
     <Content Include="Styles\pretty\hemisu-dark.css" />
     <Content Include="Styles\pretty\hemisu-light.css" />

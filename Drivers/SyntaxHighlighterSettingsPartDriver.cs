@@ -43,6 +43,7 @@ namespace TheMonarch.SyntaxHighlighter.Drivers {
             return new string[] {
                 "prettify"
                 , "desert"
+                , "doxy"
                 , "github"
                 , "hemisu-dark"
                 , "hemisu-light"
