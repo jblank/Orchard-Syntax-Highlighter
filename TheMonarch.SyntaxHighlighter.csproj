@@ -151,8 +151,8 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="Views\EditorTemplates\Parts\SyntaxHighlighterSettings.cshtml" />
-    <None Include="README.md" />
-    <None Include="Views\SyntaxHighlighter.cshtml" />
+    <Content Include="README.md" />
+    <Content Include="Views\SyntaxHighlighter.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.0">
