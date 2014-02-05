@@ -49,6 +49,7 @@ namespace TheMonarch.SyntaxHighlighter {
             //Styles
             manifest.DefineStyle("TheMonarch.prettify-prettify").SetUrl(ModuleStyle("pretty/prettify.css")).SetVersion("1.0");
             manifest.DefineStyle("TheMonarch.prettify-desert").SetUrl(ModuleStyle("pretty/desert.css")).SetVersion("1.0");
+            manifest.DefineStyle("TheMonarch.prettify-doxy").SetUrl(ModuleStyle("pretty/doxy.css")).SetVersion("1.0");
             manifest.DefineStyle("TheMonarch.prettify-github").SetUrl(ModuleStyle("pretty/github.css")).SetVersion("1.0");
             manifest.DefineStyle("TheMonarch.prettify-hemisu-dark").SetUrl(ModuleStyle("pretty/hemisu-dark.css")).SetVersion("1.0");
             manifest.DefineStyle("TheMonarch.prettify-hemisu-light").SetUrl(ModuleStyle("pretty/hemisu-light.css")).SetVersion("1.0");

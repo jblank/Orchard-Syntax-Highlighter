@@ -2,7 +2,7 @@ Name: TheMonarch.SyntaxHighlighter
 AntiForgery: enabled
 Author: Giscard Biamby
 Website: https://github.com/GiscardBiamby/Orchard-Syntax-Highlighter/
-Version: 0.0.2
+Version: 0.0.5
 OrchardVersion: 1.4
 Description: Description for the module
 Features:
