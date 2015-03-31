@@ -6,10 +6,8 @@ using TheMonarch.SyntaxHighlighter.Models;
 using Orchard.ContentManagement;
 using Orchard.ContentManagement.Drivers;
 using Orchard.Localization;
-using JetBrains.Annotations;
 
 namespace TheMonarch.SyntaxHighlighter.Drivers {
-    [UsedImplicitly]
     public class SyntaxHighlighterSettingsPartDriver : ContentPartDriver<SyntaxHighlighterSettingsPart> {
 
         public Localizer T { get; set; }

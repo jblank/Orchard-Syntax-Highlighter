@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Text;
-using JetBrains.Annotations;
 using Orchard.ContentManagement;
 using Orchard.Data;
 using Orchard.ContentManagement.Handlers;
@@ -10,7 +9,6 @@ using Orchard.Security;
 using TheMonarch.SyntaxHighlighter.Models;
 
 namespace TheMonarch.SyntaxHighlighter.Handlers {
-    [UsedImplicitly]
     public class SyntaxHighlighterSettingsPartHandler : ContentHandler {
         private readonly IEncryptionService _encryptionService;
 
